@@ -18,7 +18,7 @@
 
 <h3 align="left">Connect with me :</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/harshkarekar/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="harshkarekar" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/harsh-karekar-01h6910a04/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="harshkarekar" height="30" width="40" /></a>
 <a href="https://www.instagram.com/_harxh.01_/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_harxh.01_" height="30" width="40" /></a>
 <a href="https://www.kaggle.com/harshkarekar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="kaggle" height="30" width="40" /></a>
 <a href="https://leetcode.com/u/HarshK0103/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="leetcode" height="30" width="40" /></a>
