@@ -7,7 +7,7 @@
 
 - 📈 Passionate about solving real-world problems with data-driven & multimodal AI solutions
 
-- 💼 Actively preparing for roles in **AI Engineer**, **ML Engineer**, and **Data Scientist** domains
+- 💼 Actively preparing for roles in **Data Scientist**, **ML Engineer**, and **AI Engineer** domains
 
 - 📫 Reach me at : **hkarekar0103@gmail.com**
 
