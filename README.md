@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Harsh Karekar</h1>
-<h3 align="center">ECE Undergrad @ VIT Bhopal | Aspiring AI/ML & Data Science Engineer | Building Intelligent & Real-World Solutions</h3>
+<h3 align="center">ECE Undergrad @ VIT Bhopal | Aspiring Data Scientist & AI/ML Engineer | Building Intelligent & Real-World Solutions</h3>
 
 
 
