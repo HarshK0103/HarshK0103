@@ -11,7 +11,7 @@
 
 - 📫 Reach me at : **hkarekar0103@gmail.com**
 
-- 📄 Here's My Resume: [Resume](https://drive.google.com/file/d/1yNoDQU0n6rTAQVwb43o8EBBra7eO69zJ/view?usp=sharing) 
+- 📄 Here's My Resume: [Resume](https://drive.google.com/file/d/1YzR8hytyolx7vChnajmOb6voH4USt-J9/view?usp=sharing) 
 
 
 ---
