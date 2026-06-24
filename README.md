@@ -47,9 +47,35 @@
 </p>
 
 ---
+<h3 align="left">📊 GitHub Analytics :</h3>
+<p align="left">
+  
+<div align="center">
+  <img alt="GitHub Stats"
+       src="https://github-readme-stats.vercel.app/api?username=HarshK0103&show_icons=true&theme=transparent&hide_border=true&title_color=42F548&text_color=ffffff&icon_color=42F548&hide_rank=true&include_all_commits=true"
+       height="165"/>
+  <img alt="Top Languages"
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarshK0103&layout=compact&theme=transparent&hide_border=true&title_color=42F548&text_color=ffffff"
+       height="165"/>
+</div>
+
+<div align="center">
+  <img alt="GitHub Streak"
+       src="https://streak-stats.demolab.com?user=HarshK0103&theme=transparent&hide_border=true"/>
+</div>
+
+<div align="center">
+  <img
+    src="https://raw.githubusercontent.com/HarshK0103/HarshK0103/output/github-contribution-grid-snake-dark.svg"
+    alt="Contribution Snake"
+    width="85%"
+  />
+</div>
+</p>
+
+---
 
 > “Code is like humor. When you have to explain it, it’s bad.”
 > ~ Cory House
 
 ---
-
